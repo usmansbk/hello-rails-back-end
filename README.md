@@ -6,6 +6,10 @@
 
 ![screenshot](./app_screenshot.png)
 
+## Frontend
+
+[GitHub Repo](https://github.com/usmansbk/hello-react-front-end)
+
 ## Built With
 
 - Ruby on Rails
