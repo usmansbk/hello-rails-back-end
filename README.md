@@ -4,8 +4,6 @@
 
 > A two repo approach to using rails and react
 
-![screenshot](./app_screenshot.png)
-
 ## Frontend
 
 [GitHub PR](https://github.com/usmansbk/hello-react-front-end/pull/2)
