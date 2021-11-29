@@ -8,7 +8,7 @@
 
 ## Frontend
 
-[GitHub Repo](https://github.com/usmansbk/hello-react-front-end)
+[GitHub PR](https://github.com/usmansbk/hello-react-front-end/pull/2)
 
 ## Built With
 
